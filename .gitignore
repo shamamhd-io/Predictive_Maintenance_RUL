@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+
+data/raw/
+data/interim/
+data/processed/
+
+# Experimental model checkpoints
+artifacts/models/*
+
+# Selected final models required for inference
+!artifacts/models/FD001_bilstm.pth
+!artifacts/models/FD002_bilstm.pth
+!artifacts/models/FD003_transformer.pth
+!artifacts/models/FD004_transformer.pth
+artifacts/metrics/
+artifacts/plots/
+
+# Dataset archives
+*.zip
+
+# macOS files
+.DS_Store
