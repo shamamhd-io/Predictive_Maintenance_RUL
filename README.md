@@ -340,6 +340,63 @@ Predictive_Maintenance_RUL/
 
 Developed as a deep learning and predictive maintenance portfolio project using NASA C-MAPSS turbofan engine degradation data.
 
+
+## Dashboard Screenshots
+
+The interactive dashboard supports all four NASA C-MAPSS datasets.
+
+### FD001
+
+<details>
+<summary>View FD001 dashboard screenshots</summary>
+
+![FD001 Screenshot 1](RUL_SS/FD001/00.png)
+![FD001 Screenshot 2](RUL_SS/FD001/01.png)
+![FD001 Screenshot 3](RUL_SS/FD001/02.png)
+![FD001 Screenshot 4](RUL_SS/FD001/03.png)
+![FD001 Screenshot 5](RUL_SS/FD001/04.png)
+
+</details>
+
+### FD002
+
+<details>
+<summary>View FD002 dashboard screenshots</summary>
+
+![FD002 Screenshot 1](RUL_SS/FD002/01.png)
+![FD002 Screenshot 2](RUL_SS/FD002/02.png)
+![FD002 Screenshot 3](RUL_SS/FD002/03.png)
+![FD002 Screenshot 4](RUL_SS/FD002/04.png)
+![FD002 Screenshot 5](RUL_SS/FD002/05.png)
+
+</details>
+
+### FD003
+
+<details>
+<summary>View FD003 dashboard screenshots</summary>
+
+![FD003 Screenshot 1](RUL_SS/FD003/01.png)
+![FD003 Screenshot 2](RUL_SS/FD003/02.png)
+![FD003 Screenshot 3](RUL_SS/FD003/03.png)
+![FD003 Screenshot 4](RUL_SS/FD003/04.png)
+![FD003 Screenshot 5](RUL_SS/FD003/05.png)
+
+</details>
+
+### FD004
+
+<details>
+<summary>View FD004 dashboard screenshots</summary>
+
+![FD004 Screenshot 1](RUL_SS/FD004/01.png)
+![FD004 Screenshot 2](RUL_SS/FD004/02.png)
+![FD004 Screenshot 3](RUL_SS/FD004/03.png)
+![FD004 Screenshot 4](RUL_SS/FD004/04.png)
+![FD004 Screenshot 5](RUL_SS/FD004/05.png)
+
+</details>
+
 ## Acknowledgements
 
 Dataset: NASA C-MAPSS Turbofan Engine Degradation Simulation Data, NASA Prognostics Data Repository.
