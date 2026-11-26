@@ -44,10 +44,6 @@ def health():
     }
 
 
-# Health check endpoint
-@app.get("/health")
-def health():
-    return {"status": "healthy", "model": "Optuna Tuned Transformer"}
 
 
 # Multi-dataset RUL prediction endpoint
