@@ -23,7 +23,7 @@ st.set_page_config(
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
-DATA_DIR = PROJECT_ROOT / "data" / "raw" / "CMAPSSData"
+DATA_DIR = PROJECT_ROOT / "data" / "deployment"
 ARTIFACTS_DIR = PROJECT_ROOT / "artifacts"
 
 API_URL = "http://127.0.0.1:8000/predict"
